@@ -1,68 +1,92 @@
-# Projeto Imersão Alura <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
-![Image](https://github.com/user-attachments/assets/cff0045d-ca49-4d03-bffe-8ec7b63814c0)
+# Projeto Imersão React - Alura
 
+> Aplicação web interativa desenvolvida durante a Imersão React da Alura, focada na prática de conceitos modernos de front-end como componentização, rotas e consumo de APIs.
 
-## 📝 Descrição
-Projeto desenvolvido durante a Imersão React da Alura, onde foi criada uma aplicação web interativa utilizando React e outras tecnologias modernas do desenvolvimento front-end.
+[![Status](https://img.shields.io/badge/Status-Concluído-success)](https://github.com/seu-usuario/projeto-imersao-alura)
+[![React](https://img.shields.io/badge/React-UI_Library-61DAFB)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 
-## 🛠️ Tecnologias Utilizadas
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+## Sobre o Projeto
+
+Este projeto foi desenvolvido como parte da **Imersão React da Alura**, um evento intensivo focado em construir uma aplicação do zero utilizando as melhores práticas do ecossistema React. A aplicação resultante é uma interface web moderna e interativa que consome dados de uma API externa e os apresenta de forma amigável ao usuário.
+
+O objetivo foi aplicar na prática conceitos fundamentais como componentização, gerenciamento de estado, roteamento e estilização para criar uma Single Page Application (SPA) funcional e responsiva.
+
+## 🖼️ Demonstração Visual
+
+| Aplicação em Funcionamento |
+| :---: |
+| ![Preview do Projeto](https://github.com/user-attachments/assets/cff0045d-ca49-4d03-bffe-8ec7b63814c0) |
 
 ## ✨ Funcionalidades
-- Interface responsiva e moderna
-- Navegação entre páginas utilizando React Router
-- Integração com APIs externas
-- Design interativo e amigável ao usuário
 
-## 🚀 Como executar o projeto
+-   **Design Responsivo:** Interface construída para se adaptar a diferentes tamanhos de tela, de desktops a dispositivos móveis.
+-   **Componentização com React:** Código organizado em componentes reutilizáveis, seguindo as melhores práticas para manutenibilidade.
+-   **Navegação com React Router:** Sistema de rotas que permite uma experiência de navegação fluida e sem recarregamento de página (SPA).
+-   **Consumo de API Externa:** Busca e exibe dados dinâmicos de uma API de terceiros de forma assíncrona.
+
+## Tecnologias
+
+-   **React** - Biblioteca principal para a construção da interface.
+-   **JavaScript (ES6+)** - Linguagem de programação.
+-   **HTML5** e **CSS3** - Estrutura e estilização da aplicação.
+-   **Node.js** - Ambiente de execução para o servidor de desenvolvimento.
+
+## Primeiros Passos
+
+Para executar este projeto localmente, siga as instruções abaixo.
 
 ### Pré-requisitos
-- Node.js instalado em sua máquina
-- NPM (Node Package Manager) ou Yarn
+-   [Node.js](https://nodejs.org/) (versão LTS recomendada)
+-   [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 
-### Instalação
-1. Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
-```
+### Instalação e Execução
 
-2. Acesse a pasta do projeto
-```bash
-cd nome-do-projeto
-```
+1.  **Clone o repositório**
+    ```bash
+    git clone https://github.com/seu-usuario/projeto-imersao-alura.git
+    cd projeto-imersao-alura
+    ```
 
-3. Instale as dependências
-```bash
-npm install
-# ou
-yarn install
-```
+2.  **Instale as dependências**
+    ```bash
+    npm install
+    # ou
+    yarn install
+    ```
 
-4. Execute o projeto
-```bash
-npm start
-# ou
-yarn start
-```
+3.  **Execute a aplicação**
+    ```bash
+    npm start
+    # ou
+    yarn start
+    ```
 
-O projeto será executado no endereço `http://localhost:3000`
+A aplicação estará disponível em `http://localhost:3000` no seu navegador.
 
-## 📫 Contatos
+## Suporte e Contato
 
-<div>
-  <a href="https://www.linkedin.com/in/gustavo-moreno-8a925b26a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:g.moreno.souza05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+-   **Email**: [g.moreno.souza05@gmail.com](mailto:g.moreno.souza05@gmail.com)
+-   **LinkedIn**: [Gustavo Moreno](https://www.linkedin.com/in/gustavo-moreno-8a925b26a/)
+
+## Licença
+
+Este projeto está licenciado sob uma Licença Proprietária.
+
+**Uso Restrito**: Este software foi desenvolvido para fins educacionais e de portfólio. Uso comercial ou redistribuição requer autorização expressa.
+
+---
+
+<div align="center">
+  Desenvolvido por Gustavo Moreno
+  <br><br>
+  <a href="https.linkedin.com/in/gustavo-moreno-8a925b26a/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" alt="LinkedIn"/>
   </a>
 </div>
 
-## 🙏 Agradecimentos
-- Equipe Alura
-- Instrutores da Imersão
-- Comunidade de desenvolvedores
+
+
+**Opção 3 (Curta e Direta):**
+> Resultado prático da Imersão React Alura: uma SPA funcional que demonstra o uso de componentes, rotas e requisições a uma API.
