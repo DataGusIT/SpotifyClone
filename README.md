@@ -88,5 +88,3 @@ Este projeto está licenciado sob uma Licença Proprietária.
 
 
 
-**Opção 3 (Curta e Direta):**
-> Resultado prático da Imersão React Alura: uma SPA funcional que demonstra o uso de componentes, rotas e requisições a uma API.
